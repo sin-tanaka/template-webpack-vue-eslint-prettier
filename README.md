@@ -30,3 +30,5 @@ commands history:
 : 1549720064:0;npx eslint "src/**/*.{js,vue}" --fix
 : 1549720078:0;yarn lint
 ```
+
+いちから webpack + vue-loader + eslint + prettier の設定した記録
